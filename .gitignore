@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+env_ability_generator_3-10/
+logs/
+saved_projects/Концепт от ИИ.json
+saved_projects/project_ability_data.json
